@@ -1,8 +1,3 @@
-# a=open('demo.txt', mode='a')
-# # print(a.read())
-# # a.write("fuck off man")
-# print(a.append("bye"))
-
 
 # # # class babu():
 # # #     print(a+b)
@@ -65,6 +60,7 @@ a=child2()
 # a.output1() 
 a.output2()  
 a.output() 
+
 
 
 
